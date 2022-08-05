@@ -1,0 +1,11 @@
+.vscode/
+VOC_dataset/
+VOCdevkit/
+VOCtrainval_11-May-2012.tar
+__pycache__/
+TensorFlow_YOLO1/.DS_Store
+TensorFlow_YOLO1/checkpoint
+TensorFlow_YOLO1/.mypy_cache
+TensorFlow_YOLO1/__pycache__
+PyTorch_YOLO1/.mypy_cache
+PyTorch_YOLO1/__pycache__
