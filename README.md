@@ -6,15 +6,13 @@
 
 :pushpin: __NB: *This was my first paper to code kind of implementation, and it was really fun! Pretty fun actually!*__
 
-+Original paper: [YOLO Unified Detection](https://arxiv.org/abs/1506.02640)
-+Dataset: [Pascal VOC dataset](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)
-+YouTube: [YOLO version one from scratch](https://youtu.be/ywhEszosSl8)
-+My article: [What I learnt from YOLO](https://fourier-client.vercel.app/community/notebooks#62cfb9878f689100169a93a5)
+- Original paper: [YOLO Unified Detection](https://arxiv.org/abs/1506.02640)
+- Dataset: [Pascal VOC dataset](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)
+- YouTube: [YOLO version one from scratch](https://youtu.be/ywhEszosSl8)
+- My article: [What I learnt from YOLO](https://fourier-client.vercel.app/community/notebooks#62cfb9878f689100169a93a5)
 >Jonathan Hui's best article explaining YOLO variants [here](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-166FC5?style=border-radius:3px&logo=LinkedIn&logoColor=white)
 ](https://www.linkedin.com/in/marvin-mboya-b7bb81195/)
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=border-radius:3px&logo=GitHub&logoColor=white)](https://github.com/Marvin-desmond)
-
-![Hello](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/waving-hand_1f44b.png =x40)
